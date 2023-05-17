@@ -121,6 +121,26 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "docker",
+			"description": "CDN for docker hub images",
+			"domain_files": ["docker.txt"]
+		},
+		{
+			"name": "trackmania",
+			"description": "CDN for docker hub images",
+			"domain_files": ["trackmania.txt"]
+		},
+		{
+			"name": "github",
+			"description": "CDN for docker hub images",
+			"domain_files": ["github.txt"]
+		},
+		{
+			"name": "csgo",
+			"description": "CDN for docker hub images",
+			"domain_files": ["csgo.txt"]
 		}
 	]
 }

@@ -1,1 +1,5 @@
-lancache.steamcontent.com
+*.steamcontent.com
+*.steampowered.com
+*.steamstatic.com
+steamcdn-a.akamaihd.net
+

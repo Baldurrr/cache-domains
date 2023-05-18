@@ -1,0 +1,4 @@
+*.debian.org
+*.debian.fr
+*.xanmod.org
+*.alpinelinux.org

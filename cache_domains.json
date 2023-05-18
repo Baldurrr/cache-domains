@@ -141,6 +141,11 @@
 			"name": "csgo",
 			"description": "CDN for docker hub images",
 			"domain_files": ["csgo.txt"]
+		},
+		{
+			"name": "linux",
+			"description": "CDN for docker hub images",
+			"domain_files": ["linux.txt"]
 		}
 	]
 }

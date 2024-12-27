@@ -1,2 +1,9 @@
 *.docker.com
 *.docker.io
+*.gcr.io
+*.ghcr.io
+*.amazonaws.com
+*.github.com
+*.quay.io
+*.rancher.io
+*.githubusercontent.com

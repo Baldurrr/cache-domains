@@ -9,3 +9,6 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+*.windowsupdate.com
+update.microsoft.com
+*.windowsupdate.microsoft.com

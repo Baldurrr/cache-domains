@@ -2,3 +2,5 @@
 *.debian.fr
 *.xanmod.org
 *.alpinelinux.org
+*.ubuntu.com
+*.ubuntu.org
